@@ -1,0 +1,22 @@
+.aboutInfoLeft {
+  display: inline-block;
+  margin-right: 300px;
+}
+
+.aboutInfoRight {
+  display: inline-block;
+}
+
+.aboutInfoLeft > p, .aboutInfoRight > p {
+  padding-bottom: 20px;
+  margin-bottom: 20px;
+  font-family: 'Dancing Script';
+  font-size: 40px;
+  border-bottom: 3px solid black;
+}
+
+.aboutInfoLeft > div, .aboutInfoRight > div {
+  display: inline-block;
+  width: 400px;
+  font-family: 'Montserrat';
+}

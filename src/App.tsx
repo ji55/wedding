@@ -3,6 +3,7 @@ import { Route, Switch } from 'react-router-dom';
 import Nav from './components/Nav';
 import './App.css'
 import Main from './components/Main';
+import About from './components/About';
 
 
 function App() {
@@ -13,7 +14,11 @@ function App() {
         <Route path="/" exact>
           <Main />
         </Route>
+        <Route path="/about-us">
+          <About />
+        </Route>
       </Switch>
+      
     </div>
   );
 }

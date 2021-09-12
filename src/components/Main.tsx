@@ -1,9 +1,10 @@
-import React from 'react'
+import React from 'react';
+import './Main.css'
 
 function Main() {
   return (
-    <div>
-      sdf
+    <div className="main">
+      <img className="mainImg" src="/mainImg.jpg" alt="mainImg" />
     </div>
   )
 }

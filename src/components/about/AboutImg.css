@@ -1,0 +1,17 @@
+.aboutImgLeft, .aboutImgRight {
+  display: inline-block;
+  margin-top: 100px;
+}
+
+.aboutImgLeft > img, .aboutImgRight > img {
+  width: 400px;
+  height: 400px;
+  border-radius: 50%;
+}
+
+.aboutImgLeft {
+  margin-right: 150px;
+}
+.aboutImgRight {
+  margin-left: 150px;
+}
