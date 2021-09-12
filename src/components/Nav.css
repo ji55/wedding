@@ -1,0 +1,28 @@
+.nav {
+  height: 110px;
+  padding-top: 30px;
+  text-align: center;
+}
+
+.navLinkLeft {
+  text-decoration: none;
+  color: black;
+  font-family: 'Montserrat';
+  margin-right: 50px;
+}
+
+.navLinkRight {
+  text-decoration: none;
+  color: black;
+  font-family: 'Montserrat';
+  margin-left: 50px;
+}
+
+.navLogo {
+  text-decoration: none;
+  color: black;
+  font-family: 'Dancing Script';
+  font-size: 55px;
+  margin-left: 100px;
+  margin-right: 100px;
+}
