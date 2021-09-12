@@ -3,5 +3,6 @@
 }
 
 .mainImg {
-  width: 60%;
+  width: 100%;
+  max-width: 2200px;
 }

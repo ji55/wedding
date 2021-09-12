@@ -8,7 +8,7 @@ function Nav() {
       <Link className="navLinkLeft" to="/about-us">
         About Us
       </Link>
-      <Link className="navLinkLeft" to="/">
+      <Link className="navLinkLeft" to="/story">
         Story
       </Link>
       <Link className="navLinkLeft" to="/">

@@ -1,0 +1,32 @@
+.storyRightBody {
+  clear: both;
+  padding-right: 10%;
+}
+
+.storyRightImg {
+  margin-bottom: 50px;
+  float: right;
+}
+
+.storyRightImg > img {
+  width: 400px;
+  height: 400px;
+  border-radius: 50%;
+}
+
+.storyRightInfo {
+  float: right;
+  text-align: right;
+  padding-top: 100px;
+  margin-right: 150px;
+  height: 100%;
+  width: 48%;
+}
+
+.storyRightInfo > h1 {
+  font-family: 'Dancing Script';
+}
+
+.storyRightInfo > span {
+  font-family: 'Montserrat';
+}

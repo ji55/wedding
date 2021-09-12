@@ -1,0 +1,33 @@
+.storyLeftBody {
+  clear: both;
+  padding-left: 10%;
+}
+
+.storyLeftImg {
+  display: inline-block;
+  margin-bottom: 50px;
+  float: left;
+}
+
+.storyLeftImg > img {
+  width: 400px;
+  height: 400px;
+  border-radius: 50%;
+}
+
+.storyLeftInfo {
+  float: left;
+  text-align: left;
+  margin-top: 100px;
+  margin-left: 150px;
+  height: 100%;
+  width: 48%;
+}
+
+.storyLeftInfo > h1 {
+  font-family: 'Dancing Script';
+}
+
+.storyLeftInfo > span {
+  font-family: 'Montserrat';
+}

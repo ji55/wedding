@@ -7,7 +7,6 @@ function About() {
   return (
     <div className="about">
       <AboutImg />
-      {/* <br /><br /> */}
       <AboutInfo />
     </div>
   )
